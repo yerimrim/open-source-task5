@@ -5,16 +5,18 @@
 **Space Recommendation** is a Python-based practice project designed to simulate a simple open source workflow.
 This project focuses on managing **contributors** and **issues**, performing basic data analysis, and generating reports.
 
+For detailed documentation, see `docs/project_documentation.md`.
+
 The main purpose of this repository is:
 
 * To practice contributing to open source projects
-* To understand project structure (README, LICENSE, CONTRIBUTING)
+* To understand project structure (README, LICENSE, CONTRIBUTING, DOCUMENTATION)
 * To simulate real-world collaboration scenarios
 
 ---
 
 ## 📌 Objectives
-
+  
 This project aims to help beginners:
 
 * Understand how open source projects are structured
@@ -41,13 +43,16 @@ This project aims to help beginners:
 
 ```
 .
-├── main.py                  # Main Python script
-├── space_recommendation/
-│   ├── project_report.txt   # Generated project report
-│   └── issues.csv           # Generated issues data
+├── main.ipynb              # Main project notebook
 ├── README.md
 ├── CONTRIBUTING.md
-└── LICENSE
+├── LICENSE
+├── .gitignore
+├── docs/
+│   └── project_documentation.md  # Detailed documentation
+└── space_recommendation/         # Generated after running the program
+    ├── project_report.txt        # Generated report file
+    └── issues.csv                # Generated issue data
 ```
 
 ---
@@ -217,5 +222,5 @@ This project was created as part of an **open source software course** to practi
 
 ---
 
-⭐ *Feel free to fork, modify, and use this project for learning purposes!*
+🙆‍♀️ *Feel free to fork, modify, and use this project for learning purposes!*
 
