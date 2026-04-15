@@ -1,4 +1,4 @@
-# 📝 Contributing Guide – Space Recommendation Project
+# Contributing Guide – Space Recommendation Project
 
 ## 📌 Introduction
 
