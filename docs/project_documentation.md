@@ -1,4 +1,4 @@
-# 📘 Documentation – Space Recommendation Project
+# Documentation – Space Recommendation Project
 
 ## 📌 1. Introduction
 
@@ -12,6 +12,8 @@ This project is a **Python-based simulation** of an open source workflow, includ
 * Report generation
 
 It is designed for **learning purposes**, especially for students who are new to open source contribution.
+
+For a high-level overview, see README.md.
 
 ---
 
@@ -51,7 +53,7 @@ Python 3.x.x
 
 ---
 
-## 📌 4. Installation Guide
+## 📌 4. Setup
 
 ### Step 1: Download the project
 
@@ -72,13 +74,15 @@ cd space-recommendation
 
 ## 📌 5. How to Run the Program
 
-Run the main Python file:
+### Option A: Using Jupyter Notebook
 
-```
-python main.py
-```
+1. Open `main.ipynb`
+2. Run all cells in order
+3. Follow the prompts to input data
 
-After running, the program will **ask you to input data step by step**.
+### Option B: Convert to Python script (optional)
+
+If converted to `.py` file:
 
 ---
 
@@ -330,4 +334,4 @@ It is ideal for practicing **open source contribution workflows**.
 ## 🙆‍♀️ Final Note
 
 If you can run this project and understand each section,
-you are ready to start contributing to real open source projects 🚀
+you are ready to start contributing to real open source projects.
