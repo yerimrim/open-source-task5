@@ -130,21 +130,18 @@ git push origin feature/your-feature-name
 * Follow consistent formatting
 * Add comments where necessary
 
----
 
 ### Input Handling
 
 * Always validate user input
 * Avoid crashes due to invalid input
 
----
 
 ### File Structure
 
 * Do not change core structure unnecessarily
 * Keep files organized
 
----
 
 ### Documentation
 
