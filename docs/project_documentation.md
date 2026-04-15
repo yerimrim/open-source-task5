@@ -152,7 +152,6 @@ Status: Open
 
 If you enter invalid input, the program will ask again.
 
----
 
 #### What the program analyzes:
 
@@ -192,7 +191,6 @@ Contains structured issue data:
 id, title, priority, reporter, status
 ```
 
----
 
 #### File Handling Features
 
@@ -253,7 +251,7 @@ Project : Space Recommendation   Version : 1.0   Lead : Yerim
 Contributors : 4   Names : ['Yerim', 'James', 'Bob', 'Chloe']
 ```
 
----
+
 
 ### issues.csv
 
@@ -278,7 +276,7 @@ Cause: wrong format (e.g., typing "bugg")
   * Critical / High / Medium / Low
   * Open / In Progress / Resolved
 
----
+
 
 ### Error: file not created
 
@@ -289,7 +287,7 @@ Cause: permission issue or folder already exists
 * Check folder permissions
 * Re-run the program
 
----
+
 
 ### Error: Python not found
 
