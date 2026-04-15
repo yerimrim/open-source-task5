@@ -1,4 +1,4 @@
-# 🙆‍♀️ Contributing Guide – Space Recommendation Project
+# 📝 Contributing Guide – Space Recommendation Project
 
 ## 📌 Introduction
 
@@ -32,7 +32,7 @@ No advanced experience is required.
 
 ---
 
-## 📌 How to Contribute (Step-by-Step)
+## 📌 How to Contribute
 
 ### 1️⃣ Fork the Repository
 
@@ -108,7 +108,7 @@ git push origin feature/your-feature-name
 
 ---
 
-### 7️⃣ Create a Pull Request (PR)
+### 7️⃣ Create a Pull Request
 
 * Go to your repository on GitHub
 * Click **Compare & Pull Request**
