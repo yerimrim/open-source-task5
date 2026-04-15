@@ -91,7 +91,6 @@ python main.py
 
 ## 📌 6. Program Structure (Step-by-Step)
 
----
 
 ### ✅ Section 1: Project & Contributors
 
