@@ -1,0 +1,6 @@
+id, title, priority, reporter, status
+1, 404 Error, Critical, James, Open
+2, 500 Error, Bug, High, Yerim, In Progress
+3, New code submitted, Feature, Medium, Bob, Open
+4, 200 Success, Feature, Low, Chloe, Resolved
+5, Syntax Error, Bug, Critical, James, In Progress

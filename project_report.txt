@@ -1,0 +1,35 @@
+==================================================
+Space - Recommendation - Open Source Project
+Project Lead : Yerim
+==================================================
+
+======= Project Info =======
+Project : Space Recommendation   Version : 1.0   Lead : Yerim
+
+======= Contributors =======
+Contributors : 4   Names : ['Yerim', 'James', 'Bob', 'Chloe']
+{'name': 'Yerim', 'role': 'Junior Developer', 'language': 'Python', 'commits': 10, 'country': 'Republic of Korea', 'status': 'Active'}
+{'name': 'James', 'role': 'Senior Developer', 'language': 'Java', 'commits': 200, 'country': 'China', 'status': 'Active'}
+{'name': 'Bob', 'role': 'Instructor', 'language': 'C', 'commits': 5000, 'country': 'United States', 'status': 'Active'}
+{'name': 'Chloe', 'role': 'Frontend Developer', 'language': 'CSS', 'commits': 222, 'country': 'Japan', 'status': 'Active'}
+
+======= Issues =======
+Issues : 5  Open: 2  Reporters : 4
+{'id': 1, 'title': '404 Error', 'priority': 'Critical', 'reporter': 'James', 'status': 'Open'}
+{'id': 2, 'title': '500 Error', 'type': 'Bug', 'priority': 'High', 'reporter': 'Yerim', 'status': 'In Progress'}
+{'id': 3, 'title': 'New code submitted', 'type': 'Feature', 'priority': 'Medium', 'reporter': 'Bob', 'status': 'Open'}
+{'id': 4, 'title': '200 Success', 'type': 'Feature', 'priority': 'Low', 'reporter': 'Chloe', 'status': 'Resolved'}
+{'id': 5, 'title': 'Syntax Error', 'type': 'Bug', 'priority': 'Critical', 'reporter': 'James', 'status': 'In Progress'}
+
+======= Analysis =======
+Tech Stack : {'Python', 'CSS', 'C', 'Java'}
+Critical: 2  High: 1  Medium: 1  Low: 1
+
+======= Reporters =======
+Reporters : {'James', 'Yerim', 'Chloe', 'Bob'}
+Top Reporter : James (2 issues)
+
+======= Urgent Issues =======
+404 Error
+500 Error
+Syntax Error
