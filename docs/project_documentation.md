@@ -83,7 +83,9 @@ cd space-recommendation
 ### Option B: Convert to Python script (optional)
 
 If converted to `.py` file:
+```
 python main.py
+```
 
 ---
 
