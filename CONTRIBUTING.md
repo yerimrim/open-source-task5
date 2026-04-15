@@ -72,6 +72,11 @@ You can contribute by:
 * Refactor code for better readability
 * Optimize logic
 
+**Working with the Project**
+
+* The main implementation is in `main.ipynb`
+* Please ensure all notebook cells run correctly before submitting a Pull Request
+
 #### Feature Additions
 
 * Add new analysis features
@@ -81,6 +86,7 @@ You can contribute by:
 #### Documentation
 
 * Improve README
+* Update `docs/project_documentation.md`
 * Add more examples
 * Fix typos
 
