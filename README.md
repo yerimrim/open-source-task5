@@ -205,7 +205,7 @@ This project is licensed under the **MIT License**.
 ## 📌 Notes
 
 * This is a **learning-focused project**, not a production system
-* Input is handled via CLI (Command Line Interface)
+* Input is handled via interactive prompts in the notebook
 * Data is not persistent beyond generated files
 
 ---
