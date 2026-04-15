@@ -13,7 +13,7 @@ This project is a **Python-based simulation** of an open source workflow, includ
 
 It is designed for **learning purposes**, especially for students who are new to open source contribution.
 
-For a high-level overview, see README.md.
+For a high-level overview, see `README.md`.
 
 ---
 
@@ -83,6 +83,7 @@ cd space-recommendation
 ### Option B: Convert to Python script (optional)
 
 If converted to `.py` file:
+python main.py
 
 ---
 
