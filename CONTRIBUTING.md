@@ -38,7 +38,7 @@ No advanced experience is required.
 
 Click the **Fork** button on the top right of the repository page.
 
----
+
 
 ### 2️⃣ Clone Your Fork
 
@@ -47,7 +47,7 @@ git clone https://github.com/your-username/space-recommendation.git
 cd space-recommendation
 ```
 
----
+
 
 ### 3️⃣ Create a New Branch
 
@@ -61,7 +61,7 @@ Use meaningful branch names:
 * `fix/input-error`
 * `docs/update-readme`
 
----
+
 
 ### 4️⃣ Make Changes
 
@@ -90,7 +90,7 @@ You can contribute by:
 * Add more examples
 * Fix typos
 
----
+
 
 ### 5️⃣ Commit Your Changes
 
@@ -104,7 +104,7 @@ Commit message tips:
 * Use clear and simple language
 * Start with a verb (Add, Fix, Update, Remove)
 
----
+
 
 ### 6️⃣ Push to GitHub
 
@@ -112,7 +112,7 @@ Commit message tips:
 git push origin feature/your-feature-name
 ```
 
----
+
 
 ### 7️⃣ Create a Pull Request
 
