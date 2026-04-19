@@ -131,15 +131,6 @@ This project aims to help beginners:
 
 ---
 
-### ✅ Additional Feature (Urgent Issues)
-
-* Extracts issues with:
-
-  * `Critical` or `High` priority
-* Appends them to the report file
-
----
-
 ## 📌 How to Run
 
 1. Clone the repository
